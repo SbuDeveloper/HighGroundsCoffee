@@ -155,6 +155,23 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Art\Images\BG1-800x430.jpg" />
+    <Content Include="Content\Art\Images\BG2-800x430.jpg" />
+    <Content Include="Content\Art\Images\high-grounds-menu.jpg" />
+    <Content Include="Content\Art\Images\IMG-20171128-WA0017-579x1030.jpg" />
+    <Content Include="Content\Art\Images\IMG-20171128-WA0018-824x1030.jpg" />
+    <Content Include="Content\Art\Images\IMG-20171128-WA0022-1030x773.jpg" />
+    <Content Include="Content\Art\Images\IMG-20171128-WA0024-1030x1030.jpg" />
+    <Content Include="Content\Art\Images\IMG-20180117-WA0027.jpg" />
+    <Content Include="Content\Art\Images\IMG-20180117-WA0028.jpg" />
+    <Content Include="Content\Art\Images\IMG-20180117-WA0029.jpg" />
+    <Content Include="Content\Art\Images\IMG-20180125-WA0013-1030x579.jpg" />
+    <Content Include="Content\Art\Images\IMG-20180125-WA0014-1030x579.jpg" />
+    <Content Include="Content\Art\Images\IMG-20180125-WA0015-1030x579.jpg" />
+    <Content Include="Content\Art\Images\IMG-20180125-WA0016-1030x579.jpg" />
+    <Content Include="Content\Art\Images\IMG-20180125-WA0017-1030x579.jpg" />
+    <Content Include="Content\Art\Images\IMG-20180125-WA0018-1030x579.jpg" />
+    <Content Include="Content\Art\Images\IMG-20180125-WA0019-579x1030.jpg" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
